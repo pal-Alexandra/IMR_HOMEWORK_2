@@ -1,4 +1,4 @@
-## IMR_HOMEWORK_2
+# IMR_HOMEWORK_2
 
 
 👩‍💻 🧑‍💻 This repository contains Pal Alexandra's and Grajdeanu Alexandru Cristian's work for the second homework at IMR course.
@@ -7,7 +7,7 @@
 
 😄 The demo video is in the directory Video from this repository.
  
-# Game description
+## Game description
 
 In this captivating game, the player find himself immersed in a mysterious room. His mission is to find three precious gems, to gather one gem at a time and, with precision and skill, set their sights on an awaiting wooden box.
 
