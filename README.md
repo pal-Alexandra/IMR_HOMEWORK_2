@@ -21,7 +21,7 @@ Points are earned by hitting the box with the gem, and the score is higher by th
 
 😄 We managed to implement all the tasks.
 
-😄 The blender file where the modeling of the hand was made is in the *Hand modeling* directory.
+😄 The blender file where the modeling of the hand was made is in the *Hand modelling* directory.
 
 😄 The demo video is in the directory Video from this repository (*Tema_nr_3*).
 
