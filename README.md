@@ -15,3 +15,13 @@ Points are earned by hitting the box with the gem, and the score is higher by th
 
 
 
+# IMR_HOMEWORK_3
+
+👩‍💻 🧑‍💻 This repository contains Pal Alexandra's and Grajdeanu Alexandru Cristian's work for the third homework at IMR course.
+
+😄 We managed to implement all the tasks.
+
+😄 The blender file where the modeling of the hand was made is in the *Hand modeling* directory.
+
+😄 The demo video is in the directory Video from this repository (*Tema_nr_3*).
+
